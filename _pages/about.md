@@ -47,7 +47,7 @@ and use a somewhat tweaked version of the
 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme, with a dark color palette.
 
 If you'd like to see _what_ I've tweaked, you can always 
-[fork the repo](https://github.com/jamiesmith/jamiesmith).
+[fork the repo](https://github.com/jamiesmith/minimal-mistakes).
 
 Some handy documents for the theme:
 
