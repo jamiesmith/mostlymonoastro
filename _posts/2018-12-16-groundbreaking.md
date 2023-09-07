@@ -1,5 +1,5 @@
 ---
-title: "Groundbreaking!  Building an observatory for Mostly Mono"
+title: "Groundbreaking! Building the Mostly Mono Observatory"
 tags: [ astroshed, GHRO ]
 classes: wide
 

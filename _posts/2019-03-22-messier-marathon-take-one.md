@@ -1,6 +1,6 @@
 ---
 title: "Messier Marathon, take one"
-tags: [ astrophotography, messier, theskyx, scripting ]
+tags: [ astrophotography, messier, theskyx, scripting, atik ]
 classes: wide
 
 header:
