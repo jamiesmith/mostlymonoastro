@@ -21,12 +21,13 @@ One issue that I had early on was getting to the astroshed. Not the drive (well,
 the South Carolina roads do leave a bit to be desired). No, it was the little OSB
 plywood walkway.
 
+<!--more-->
+
 {%
   include figure image_path="/assets/images/posts/i-have-a-porch/porch-3.jpeg"
   caption="Great place to hang out"
 %}
 
-<!--more-->
 
 The initial plan was to throw down some gravel or crush & run there, but that never
 happened. Instead, when the astronomy club was adding a couple more observing pads,

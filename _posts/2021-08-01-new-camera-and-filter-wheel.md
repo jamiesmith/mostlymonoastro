@@ -19,12 +19,13 @@ Undersampling: that's what happens when the camera you use has pixels that are t
 big for your focal length and seeing conditions. It's also something that can
 cause soft images.
 
+<!--more-->
+
 {%
   include figure image_path="/assets/images/posts/new-camera-and-filter-wheel/new-imaging-train-1.jpeg"
-  caption="ZWO"
+  caption="ZWO!"
 %}
 
-<!--more-->
 
 That's what I was (unknowingly) fighting when I was using the ATIK-16200 with my
 Tak FSQ-106EDXv4. The Atik has a pixel size of 6µm, and the Tak has a focal length 
